@@ -1,0 +1,22 @@
+{
+  "unvan_tam": "OYDEM YAZILIM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+  "unvan_kisa": "OYDEM YAZILIM SAN. VE TİC. LTD. ŞTİ.",
+  "adres": "[Mahalle, Cadde / Sokak No, İlçe / İl, Posta Kodu]",
+  "telefon": "[+90 000 000 00 00]",
+  "eposta": "[info@alanadiniz.com]",
+  "web": "[www.alanadiniz.com]",
+  "kep": "[KEP adresi]",
+  "mersis": "[16 haneli MERSİS No]",
+  "sicil_mudurlugu": "[Ticaret Sicil Müdürlüğü]",
+  "sicil_no": "[Ticaret Sicil No]",
+  "vergi_dairesi": "[Vergi Dairesi]",
+  "vkn": "[Vergi Kimlik No]",
+  "sermaye": "[Sermaye tutarı] TL",
+  "banka": "[Banka / Şube]",
+  "iban": "TR[00 0000 0000 0000 0000 0000 00]",
+  "swift": "[SWIFT / BIC]",
+  "kisi_ad": "[Ad Soyad]",
+  "kisi_unvan": "[Görev / Ünvan]",
+  "kisi_tel": "[+90 5xx xxx xx xx]",
+  "kisi_eposta": "[ad.soyad@alanadiniz.com]"
+}

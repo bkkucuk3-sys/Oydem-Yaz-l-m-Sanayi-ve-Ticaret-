@@ -1,0 +1,98 @@
+[
+ {
+  "html": "kaynak/antetli-kagit-bos.html",
+  "out": "02-kirtasiye/antetli-kagit-bos",
+  "w": 210,
+  "h": 297,
+  "unit": "mm",
+  "pdf": true
+ },
+ {
+  "html": "kaynak/antetli-kagit-ornek.html",
+  "out": "02-kirtasiye/antetli-kagit-ornek",
+  "w": 210,
+  "h": 297,
+  "unit": "mm",
+  "pdf": true
+ },
+ {
+  "html": "kaynak/fatura-sablonu.html",
+  "out": "02-kirtasiye/fatura-sablonu",
+  "w": 210,
+  "h": 297,
+  "unit": "mm",
+  "pdf": true
+ },
+ {
+  "html": "kaynak/proforma-invoice.html",
+  "out": "02-kirtasiye/proforma-invoice",
+  "w": 210,
+  "h": 297,
+  "unit": "mm",
+  "pdf": true
+ },
+ {
+  "html": "kaynak/kartvizit.html",
+  "out": "02-kirtasiye/kartvizit",
+  "w": 90,
+  "h": 50,
+  "unit": "mm",
+  "pdf": true
+ },
+ {
+  "html": "kaynak/zarf-dl.html",
+  "out": "02-kirtasiye/zarf-dl",
+  "w": 220,
+  "h": 110,
+  "unit": "mm",
+  "pdf": true
+ },
+ {
+  "html": "kaynak/kase.html",
+  "out": "02-kirtasiye/kase",
+  "w": 70,
+  "h": 34,
+  "unit": "mm",
+  "pdf": false
+ },
+ {
+  "html": "kaynak/linkedin-banner.html",
+  "out": "03-dijital/linkedin-banner",
+  "w": 1584,
+  "h": 396,
+  "unit": "px",
+  "pdf": false
+ },
+ {
+  "html": "kaynak/sosyal-kare.html",
+  "out": "03-dijital/sosyal-medya-kare",
+  "w": 1080,
+  "h": 1080,
+  "unit": "px",
+  "pdf": false
+ },
+ {
+  "html": "kaynak/sunum-kapak.html",
+  "out": "03-dijital/sunum-kapak",
+  "w": 1920,
+  "h": 1080,
+  "unit": "px",
+  "pdf": false
+ },
+ {
+  "html": "kaynak/sunum-icerik.html",
+  "out": "03-dijital/sunum-icerik",
+  "w": 1920,
+  "h": 1080,
+  "unit": "px",
+  "pdf": false
+ },
+ {
+  "html": "kaynak/marka-rehberi.html",
+  "out": "04-rehber/marka-rehberi",
+  "w": 210,
+  "h": 297,
+  "unit": "mm",
+  "pdf": true
+ }
+]
