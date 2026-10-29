@@ -1,0 +1,28 @@
+
+@font-face{font-family:Poppins;font-weight:300;src:url(../fontlar/poppins-latin-300-normal.woff);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:Poppins;font-weight:300;src:url(../fontlar/poppins-latin-ext-300-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF,U+20A0-20CF}
+@font-face{font-family:Poppins;font-weight:400;src:url(../fontlar/poppins-latin-400-normal.woff);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:Poppins;font-weight:400;src:url(../fontlar/poppins-latin-ext-400-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF,U+20A0-20CF}
+@font-face{font-family:Poppins;font-weight:500;src:url(../fontlar/poppins-latin-500-normal.woff);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:Poppins;font-weight:500;src:url(../fontlar/poppins-latin-ext-500-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF,U+20A0-20CF}
+@font-face{font-family:Poppins;font-weight:600;src:url(../fontlar/poppins-latin-600-normal.woff);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:Poppins;font-weight:600;src:url(../fontlar/poppins-latin-ext-600-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF,U+20A0-20CF}
+@font-face{font-family:Michroma;src:url(../fontlar/michroma-latin-400-normal.woff);unicode-range:U+0000-00FF,U+0131,U+2000-206F}
+@font-face{font-family:Michroma;src:url(../fontlar/michroma-latin-ext-400-normal.woff);unicode-range:U+0100-02AF,U+1E00-1EFF}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:Poppins,Arial,sans-serif;color:#12183B;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{position:relative;overflow:hidden;background:#fff;page-break-after:always}
+.page:last-child{page-break-after:auto}
+.a4{width:210mm;height:297mm}
+.lockup{display:flex;align-items:center;gap:4.2mm}
+.lockup img{display:block}
+.word .name{font-family:Michroma,sans-serif;letter-spacing:.16em;color:#12183B;transform:skewX(-11deg);transform-origin:left bottom;white-space:nowrap}
+.word .sub{font-family:Michroma,sans-serif;letter-spacing:.44em;color:#1E2A78;transform:skewX(-11deg);transform-origin:left bottom;white-space:nowrap}
+.word .tag{font-weight:300;letter-spacing:.2em;color:#5B6080;white-space:nowrap}
+.dark .word .name{color:#fff} .dark .word .sub{color:#7F93FF} .dark .word .tag{color:#9AA6E8}
+.rule{height:.55mm;background:linear-gradient(90deg,#12B5A6,#1E2A78)}
+.legal{font-size:6.1pt;line-height:1.6;color:#5B6080}
+.legal b{color:#12183B;font-weight:600}
+.dim{color:#5B6080}
+table{border-collapse:collapse;width:100%}

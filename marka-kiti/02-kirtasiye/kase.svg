@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 340" width="70mm" height="34mm">
+<rect x="6" y="6" width="688" height="328" rx="20" fill="none" stroke="#1B3A8C" stroke-width="9"/>
+<rect x="24" y="24" width="652" height="292" rx="12" fill="none" stroke="#1B3A8C" stroke-width="3"/>
+<g fill="#1B3A8C" font-family="Poppins,Arial,sans-serif" text-anchor="middle">
+<text x="350" y="95" font-size="50" font-weight="700" letter-spacing="2">OYDEM YAZILIM</text>
+<text x="350" y="140" font-size="30" font-weight="600">SANAYİ VE TİCARET LTD. ŞTİ.</text>
+<line x1="70" x2="630" y1="160" y2="160" stroke="#1B3A8C" stroke-width="2.5"/>
+<text x="350" y="198" font-size="22" font-weight="500">[Mahalle, Cadde / Sokak No, İlçe / İl, Posta Kodu]</text>
+<text x="350" y="236" font-size="22" font-weight="500">V.D.: [Vergi Dairesi]  ·  V.N.: [Vergi Kimlik No]</text>
+<text x="350" y="274" font-size="22" font-weight="500">MERSİS: [16 haneli MERSİS No]</text>
+<text x="350" y="305" font-size="19" font-weight="500">Tel: [+90 000 000 00 00]</text>
+</g></svg>
